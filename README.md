@@ -39,7 +39,7 @@ C. I filtered the points in the “World_Cities_All” feature layer with 2 quer
 D. Identify-On-Click: Already a feature of the program.
 <img width="804" height="588" alt="image" src="https://github.com/user-attachments/assets/59b8b835-20a6-4647-86f0-5b879d47f121" />
 
-E. Export Filtered Features: I exported the filtered features of World Countries where Shape_Area > 5000000000000 to a shapefile called “Largest_Countries”
+E. Export Filtered Features: I exported the filtered features of World_Countries where Shape_Area > 5000000000000 to a shapefile called “Largest_Countries”
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/d25d26b6-eb79-4b50-8c72-ab9bd9fb7bba" />
 
 The total time I spent on this assignment was 3 hours. I completed all the tasks (both the required and optional).
