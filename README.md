@@ -9,8 +9,9 @@ APRX_PATH - Should contain the path to your ArcGIS Pro project's .aprx file (e.g
 
 OUT_FOLDER - Should contatin the path to your ArcGIS Pro project folder, which you must have write access to (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject").
 
+The code does the following:
 
-A. I loaded and displayed the orthophoto layer “World_Imagery_basemap” in my ArcGIS Pro Project. Source of the orthophoto layer:
+A. Loads and displays the orthophoto layer “World_Imagery_basemap” in the ArcGIS Pro Project. Source of the orthophoto layer:
 https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer.
 
 Before and After images:
@@ -18,7 +19,7 @@ Before and After images:
 <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/0a8e515a-de0c-4ce2-a688-e424e2862090" />
 <img width="940" height="515" alt="image" src="https://github.com/user-attachments/assets/03286270-0781-4fcb-be8d-a4550ddad9c7" />
 
-B. I added the 3 following feature layers on top of the imagery:
+B. Adds the 3 following feature layers on top of the imagery:
 1. World_Cities_All: https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/World_Cities/FeatureServer/0
 <img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/27b1337b-85f7-40ce-bbdd-4f77c1b2c879" />
 
@@ -30,18 +31,18 @@ https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/World_Countrie
 https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/World_Urban_Areas/FeatureServer/0 (In the picture below: a zoom in on Europe)
 <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/fc469a0b-64fe-45fa-9c88-270b2866f9b5" />
 
-C. I filtered the points in the “World_Cities_All” feature layer with 2 queries:
+C. Filters the points in the “World_Cities_All” feature layer with 2 queries:
 
-     Query 1: STATUS = ‘National and provincial capital’, which created a new feature layer “World_Cities_Capitals”
+     Query 1: STATUS = ‘National and provincial capital’, which creates a new feature layer “World_Cities_Capitals”
 <img width="940" height="390" alt="image" src="https://github.com/user-attachments/assets/04bde47d-0377-4223-a4fb-b1348e2723fb" />
 
-     Query 2: CNTRY_NAME = ‘United States’, which created a new feature layer “World_Cities_United_States”
+     Query 2: CNTRY_NAME = ‘United States’, which creates a new feature layer “World_Cities_United_States”
    <img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/d49148b8-85c6-4d8a-9add-ae78fc38be4f" />
    
-D. Identify-On-Click: Already a feature of the program.
+D. Identify-On-Click: Already a feature of every ArcGIS Pro project.
 <img width="804" height="588" alt="image" src="https://github.com/user-attachments/assets/59b8b835-20a6-4647-86f0-5b879d47f121" />
 
-E. Export Filtered Features: I exported the filtered features of World_Countries where Shape_Area > 5000000000000 to a shapefile called “Largest_Countries”
+E. Filters the features of the feature layer World_Countries where Shape_Area > 5000000000000 and then exports them to a shapefile called “Largest_Countries”
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/d25d26b6-eb79-4b50-8c72-ab9bd9fb7bba" />
 
-The total time I spent on this assignment was 3 hours. I completed all the tasks (both the required and optional).
+The total time I spent on this assignment was 4 hours. I completed all the tasks (both the required and optional).
