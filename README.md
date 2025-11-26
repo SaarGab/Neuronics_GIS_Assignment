@@ -2,6 +2,7 @@
 The home assignment given to me by Neuronics
 
 My chosen environment is ArcGIS Pro with ArcPy.
+
 A. I loaded and displayed the orthophoto layer “World_Imagery_basemap” in my ArcGIS Pro Project. Source of the orthophoto layer:
 https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer
 Before:
