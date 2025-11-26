@@ -7,7 +7,7 @@ ArcPy script to reproduce tasks in README.md:
        - CNTRY_NAME = 'United States'
   D. (Identify-on-click is built into ArcGIS Pro — no code needed)
   E. Export World_Countries features where Shape_Area > 5000000000000
-       to a shapefile named 'Largest_World_Countries.shp'
+       to a shapefile named 'Largest_Countries.shp'
 
 See README: README.md. :contentReference[oaicite:1]{index=1}
 """
