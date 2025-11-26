@@ -44,7 +44,7 @@ C. Filters the points in the “World_Cities_All” feature layer with 2 queries
 D. Identify-On-Click: Already a feature of every ArcGIS Pro project.
 <img width="978" height="715" alt="image" src="https://github.com/user-attachments/assets/116b13ff-6824-4fdb-a223-2510f8d9edeb" />
 
-E. Filters the features of the feature layer World_Countries by the query 'Shape_Area > 5000000000000' and then exports them to a shapefile called “Largest_Countries”
+E. Filters the features of the feature layer World_Countries by the query 'Shape_Area > 5000000000000' and then exports them to a new feature layer called “Largest_Countries”
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/d25d26b6-eb79-4b50-8c72-ab9bd9fb7bba" />
 
 The total time I spent on this assignment was 4 hours. I completed all the tasks (both the required and optional).
