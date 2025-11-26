@@ -1,5 +1,6 @@
 # Neuronics_GIS_Assignment
 The home assignment given to me by Neuronics.
+
 Important note: Please change the 2 following variables in the code:
 APRX_PATH - Should contain the path to your ArcGIS Pro project's .aprx file (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject\MyProject.aprx").
 OUT_FOLDER - Should contatin the path to your ArcGIS Pro project folder, which you must have write access to (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject").
