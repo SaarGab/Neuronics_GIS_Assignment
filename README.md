@@ -3,13 +3,13 @@ The home assignment given to me by Neuronics.
 
 My chosen environment is ArcGIS Pro with ArcPy.
 
-Important note: Please create a new ArcGIS Pro Project from scratch, and then inside it create a Map (it's one of the options). Afterwards, change the values of the 2 following variables in the code:
+Important note: Please create a new ArcGIS Pro Project from scratch, and then inside it create a Map (it's one of the options). Afterwards, change the values of the 2 following variables in the code (called the_actual_code.py, it's in this repository):
 
 APRX_PATH - Should contain the path to your ArcGIS Pro project's .aprx file (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject\MyProject.aprx").
 
 OUT_FOLDER - Should contatin the path to your ArcGIS Pro project folder, which you must have write access to (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject").
 
-Afterwards, please SAVE AND CLOSE the project and then run the code attached.
+Afterwards, please SAVE AND CLOSE the project and then run the code attached (that is, the_actual_code.py, which is in this repository).
 
 The code does the following:
 
