@@ -3,7 +3,7 @@ The home assignment given to me by Neuronics.
 
 My chosen environment is ArcGIS Pro with ArcPy.
 
-Important note: Please create a new ArcGIS Pro Project from scratch, and then change the values of the 2 following variables in the code:
+Important note: Please create a new ArcGIS Pro Project from scratch, and then inside it create a Map (it's one of the options). Afterwards, change the values of the 2 following variables in the code:
 
 APRX_PATH - Should contain the path to your ArcGIS Pro project's .aprx file (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject\MyProject.aprx").
 
