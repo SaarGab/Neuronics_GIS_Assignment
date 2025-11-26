@@ -1,13 +1,14 @@
 # Neuronics_GIS_Assignment
 The home assignment given to me by Neuronics.
 
+My chosen environment is ArcGIS Pro with ArcPy.
+
 Important note: Please create a new ArcGIS Pro Project from scratch, and then change the values of the 2 following variables in the code:
 
 APRX_PATH - Should contain the path to your ArcGIS Pro project's .aprx file (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject\MyProject.aprx").
 
 OUT_FOLDER - Should contatin the path to your ArcGIS Pro project folder, which you must have write access to (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject").
 
-My chosen environment is ArcGIS Pro with ArcPy.
 
 A. I loaded and displayed the orthophoto layer “World_Imagery_basemap” in my ArcGIS Pro Project. Source of the orthophoto layer:
 https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer.
