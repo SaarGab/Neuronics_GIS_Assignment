@@ -42,7 +42,7 @@ C. Filters the points in the “World_Cities_All” feature layer with 2 queries
    <img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/d49148b8-85c6-4d8a-9add-ae78fc38be4f" />
    
 D. Identify-On-Click: Already a feature of every ArcGIS Pro project.
-<img width="804" height="588" alt="image" src="https://github.com/user-attachments/assets/59b8b835-20a6-4647-86f0-5b879d47f121" />
+<img width="978" height="715" alt="image" src="https://github.com/user-attachments/assets/116b13ff-6824-4fdb-a223-2510f8d9edeb" />
 
 E. Filters the features of the feature layer World_Countries where Shape_Area > 5000000000000 and then exports them to a shapefile called “Largest_Countries”
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/d25d26b6-eb79-4b50-8c72-ab9bd9fb7bba" />
