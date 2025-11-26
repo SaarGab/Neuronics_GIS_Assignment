@@ -7,6 +7,10 @@ A. I loaded and displayed the orthophoto layer “World_Imagery_basemap” in my
 https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer.
 Before:
 <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/0a8e515a-de0c-4ce2-a688-e424e2862090" />
+
+
+
+
 After:
 <img width="940" height="515" alt="image" src="https://github.com/user-attachments/assets/03286270-0781-4fcb-be8d-a4550ddad9c7" />
 B. I added the 3 following feature layers on top of the imagery:
