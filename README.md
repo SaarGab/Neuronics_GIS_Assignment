@@ -9,6 +9,8 @@ APRX_PATH - Should contain the path to your ArcGIS Pro project's .aprx file (e.g
 
 OUT_FOLDER - Should contatin the path to your ArcGIS Pro project folder, which you must have write access to (e.g. r"C:\Users\Saar\Documents\ArcGIS\Projects\MyProject").
 
+Afterwards, please CLOSE the project and then run the code attached.
+
 The code does the following:
 
 A. Loads and displays the orthophoto layer “World_Imagery_basemap” in the ArcGIS Pro Project. Source of the orthophoto layer:
