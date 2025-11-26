@@ -31,7 +31,7 @@ https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/World_Countrie
 
 3. World_Urban_Areas:
 https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/World_Urban_Areas/FeatureServer/0 (In the picture below: a zoom in on Europe)
-<img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/fc469a0b-64fe-45fa-9c88-270b2866f9b5" />
+<img width="1447" height="728" alt="image" src="https://github.com/user-attachments/assets/7249b5af-e6d3-4324-98d5-6cc39de4c8a0" />
 
 C. Filters the points in the “World_Cities_All” feature layer with 2 queries:
 
